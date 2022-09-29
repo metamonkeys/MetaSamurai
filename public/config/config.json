@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "NFT_NAME": "MetaSamurai NFT",
+  "SYMBOL": "MetaSamurai",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 300,
+  "GAS_LIMIT": 30000,
+  "MARKETPLACE": "Collections",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
   "SHOW_BACKGROUND": true
 }
